@@ -48,3 +48,11 @@ export const userData = [
         "Active User": 6000,
     },
 ];
+
+export const userRows = [
+    { id: 1, username: 'Jonnathan Es', avatar: 'https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?cs=srgb&dl=pexels-pixabay-220453.jpg&fm=jpg', email: 'test@gmail.com', status: 'active', transaction: '$120.0' },
+    { id: 2, username: 'Jonnathan Es', avatar: 'https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?cs=srgb&dl=pexels-pixabay-220453.jpg&fm=jpg', email: 'test@gmail.com', status: 'active', transaction: '$120.0' },
+    { id: 3, username: 'Jonnathan Es', avatar: 'https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?cs=srgb&dl=pexels-pixabay-220453.jpg&fm=jpg', email: 'test@gmail.com', status: 'active', transaction: '$120.0' },
+    { id: 4, username: 'Jonnathan Es', avatar: 'https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?cs=srgb&dl=pexels-pixabay-220453.jpg&fm=jpg', email: 'test@gmail.com', status: 'active', transaction: '$120.0' },
+    { id: 5, username: 'Jonnathan Es', avatar: 'https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?cs=srgb&dl=pexels-pixabay-220453.jpg&fm=jpg', email: 'test@gmail.com', status: 'active', transaction: '$120.0' }
+];
