@@ -14,8 +14,7 @@ import {
     WorkOutline,
     Report,
 } from '@material-ui/icons';
-;
-
+import { Link } from 'react-router-dom';
 
 const Sidebar = () => {
     return (
@@ -43,10 +42,12 @@ const Sidebar = () => {
                 <div className="sidebarMenu">
                     <h3 className="sidebarTitle">Quick Menu</h3>
                     <ul className="sidebarList">
-                        <li className="sidebarListItem">
-                            <PermIdentity className='sidebarIcon' />
-                            Users
-                        </li>
+                        <Link to='/users' className='link'>
+                            <li className="sidebarListItem">
+                                <PermIdentity className='sidebarIcon' />
+                                Users
+                            </li>
+                        </Link>
                         <li className="sidebarListItem">
                             <Storefront className='sidebarIcon' />
                             Products
