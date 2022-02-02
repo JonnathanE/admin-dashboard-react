@@ -13,7 +13,7 @@ const UserList = () => {
     const [data, setData] = useState(userRows);
 
     const handelDelete = id => {
-        setData(data.filter((item) => item.id != id));
+        setData(data.filter((item) => item.id !== id));
     }
 
     const columns = [
