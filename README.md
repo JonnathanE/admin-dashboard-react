@@ -47,7 +47,15 @@ Start the server
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![home](https://user-images.githubusercontent.com/33469147/152615233-269f8289-9633-43be-afd9-0148fa4349d2.png)
+
+![userList](https://user-images.githubusercontent.com/33469147/152615316-0749d7b2-88b2-4dd7-b9b7-dd3093e88ccc.png)
+
+![user](https://user-images.githubusercontent.com/33469147/152615361-0b42ea86-c3eb-4179-8564-81991f44adbe.png)
+
+![newUser](https://user-images.githubusercontent.com/33469147/152615464-62a735d1-1da6-4c16-9504-e8d117dddf8e.png)
+
+![product](https://user-images.githubusercontent.com/33469147/152615399-f308ad14-1a18-472c-a2c0-4783b62ed317.png)
 
 
 ## Available Scripts
