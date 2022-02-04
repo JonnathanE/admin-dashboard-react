@@ -3,6 +3,7 @@ import './app.css';
 import Sidebar from './components/Sidebar/Sidebar.jsx';
 import Topbar from './components/Topbar/Topbar.jsx';
 import Home from './pages/Home/Home.jsx';
+import NewProduct from "./pages/NewProduct/NewProduct";
 import NewUser from "./pages/NewUser/NewUser";
 import Product from "./pages/Product/Product";
 import ProductList from "./pages/ProductList/ProductList";
@@ -22,6 +23,7 @@ function App() {
           <Route path='/newUser' element={<NewUser />} />
           <Route path='/products' element={<ProductList />} />
           <Route path='/product/:productId' element={<Product />} />
+          <Route path='/newproduct' element={<NewProduct />} />
         </Routes>
       </div>
     </BrowserRouter>
